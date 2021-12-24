@@ -1,0 +1,10 @@
+D:\ChuyendeTinhoc\Onthi3\Onthi3\bin\Debug\Onthi3.exe.config
+D:\ChuyendeTinhoc\Onthi3\Onthi3\bin\Debug\Onthi3.exe
+D:\ChuyendeTinhoc\Onthi3\Onthi3\bin\Debug\Onthi3.pdb
+D:\ChuyendeTinhoc\Onthi3\Onthi3\obj\Debug\Onthi3.csprojAssemblyReference.cache
+D:\ChuyendeTinhoc\Onthi3\Onthi3\obj\Debug\Onthi3.Form1.resources
+D:\ChuyendeTinhoc\Onthi3\Onthi3\obj\Debug\Onthi3.Properties.Resources.resources
+D:\ChuyendeTinhoc\Onthi3\Onthi3\obj\Debug\Onthi3.csproj.GenerateResource.cache
+D:\ChuyendeTinhoc\Onthi3\Onthi3\obj\Debug\Onthi3.csproj.CoreCompileInputs.cache
+D:\ChuyendeTinhoc\Onthi3\Onthi3\obj\Debug\Onthi3.exe
+D:\ChuyendeTinhoc\Onthi3\Onthi3\obj\Debug\Onthi3.pdb
